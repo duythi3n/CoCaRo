@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CoCaRo/static/css/main.3d115aba.css",
-    "main.js": "/CoCaRo/static/js/main.2dce3b14.js",
+    "main.js": "/CoCaRo/static/js/main.0a8c81cd.js",
     "static/js/453.96453769.chunk.js": "/CoCaRo/static/js/453.96453769.chunk.js",
     "static/media/logo.svg": "/CoCaRo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CoCaRo/index.html",
     "main.3d115aba.css.map": "/CoCaRo/static/css/main.3d115aba.css.map",
-    "main.2dce3b14.js.map": "/CoCaRo/static/js/main.2dce3b14.js.map",
+    "main.0a8c81cd.js.map": "/CoCaRo/static/js/main.0a8c81cd.js.map",
     "453.96453769.chunk.js.map": "/CoCaRo/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d115aba.css",
-    "static/js/main.2dce3b14.js"
+    "static/js/main.0a8c81cd.js"
   ]
 }
